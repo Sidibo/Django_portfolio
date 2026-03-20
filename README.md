@@ -16,7 +16,7 @@ This is a dynamic portfolio web application where users can:-
 - Contact the developer
 - Manage content via admin panel
 
----
+----
 
 ## 🎯 Features
 
