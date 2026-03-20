@@ -9,7 +9,7 @@ A personal portfolio website built using **Django** to showcase projects, skills
 
 ## 📌 Overview
 
-This is a dynamic portfolio web application where users can:
+This is a dynamic portfolio web application where users can:-
 
 - View projects
 - Explore skills
