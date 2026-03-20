@@ -24,7 +24,7 @@ This is a dynamic portfolio web application where users can:-
 - 📂 Project showcase section  
 - 🛠 Skills & technologies section  
 - 📬 Contact form  
-- 🔐 Django admin panel for content management  
+- 🔐 Django admin panel for content managements
 - 🌐 Fully dynamic backend  
 
 ---
