@@ -27,7 +27,7 @@ This is a dynamic portfolio web application where users can:-
 - 🔐 Django admin panel for content managements
 - 🌐 Fully dynamic backend  
 
----
+----
 
 ## 🧠 Tech Stack
 
@@ -42,13 +42,13 @@ This is a dynamic portfolio web application where users can:-
 - SQLite (default)  
 - (Can be upgraded to PostgreSQL)
 
----
+----
 
 ## 📂 Project Structure
 
 portfolio_project/ │ ├── portfolio_project/ │   ├── settings.py │   ├── urls.py │ ├── portfolio/ │   ├── views.py │   ├── models.py │   ├── urls.py │   ├── templates/ │   └── static/ │ ├── manage.py ├── db.sqlite3 └── README.md
 
----
+----
 
 ## ⚙️ Installation & Setup
 
